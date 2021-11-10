@@ -1,0 +1,5 @@
+# CocoaPods
+/ios/Pods/
+
+yarn.lock
+node_modules
